@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     cout<<"Armstrong Number Program"<<endl;
-    int input_num{163};
+    int input_num{1634};
     string num_str = to_string(input_num); //integer to string conversion
     cout<<num_str<<endl;
     int length = num_str.size();
